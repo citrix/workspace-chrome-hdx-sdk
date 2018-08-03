@@ -1,6 +1,8 @@
-# Capabilities## Introduction
+# Capabilities
 
-HDX SDK for Chrome provides APIs that lets third party chrome packaged apps to launch and interact with the Citrix hosted apps and desktops sessions.
+## Introduction
+
+Citrix Workspace app for Chrome 1808 HDX SDK provides APIs that lets third party chrome packaged apps to launch and interact with the Citrix hosted apps and desktops sessions.
 
 ## Getting Started
 

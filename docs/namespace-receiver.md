@@ -24,7 +24,7 @@ Creates a new session and returns session instance through callback. Use session
 
 | Name | Type | Description |
 |---|---|---|
-| `id` | string	| Receiver for Chrome ID. For example, id of the store version is "haiffjcadagjlijoggckpgfnoeiflnem". |
+| `id` | string	| Workspace app for Chrome ID. For example, id of the store version is "haiffjcadagjlijoggckpgfnoeiflnem". |
 | `connectionParams` |	[connectionParams](./global/#connectionparams)	| Configuration options to create the session.|
 | `onSessionCreated` |	[onSessionCreated](./global/#onsessioncreated) | Callback containing the session object created. Signature sample: `function <function_name>(session_object){…}` |
 
@@ -37,7 +37,7 @@ Unable to create session object.
 
 #### Examples
 
-**Example 1:** Following code launches an app/desktop in a new window (similar to the session launch using Receiver for Chrome).
+**Example 1:** Following code launches an app/desktop in a new window (similar to the session launch using Workspace app for Chrome).
 
 ```
 //Use appropriate citrix receiver id. This sample uses store version.

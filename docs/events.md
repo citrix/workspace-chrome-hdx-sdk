@@ -45,7 +45,7 @@ Sample event object generated for onConnectionClosed event.
 
 ## <a name="onerror"></a>onError
 
-Raised on occurrence of any error in Citrix Receiver.
+Raised on occurrence of any error in Citrix Workspace app for Chrome 1808.
 
 ### Type
 
@@ -75,7 +75,7 @@ Sample event object generated for onError event.
 
 ## <a name="onurlredirection"></a>onURLRedirection
 
-Raised when URL redirection is configured on server and when any URL is passed to the Receiver for Chrome engine to process. The message would contain the URL that is redirected to the client.
+Raised when URL redirection is configured on server and when any URL is passed to the Workspace app for Chrome engine to process. The message would contain the URL that is redirected to the client.
 
 ### Type
 

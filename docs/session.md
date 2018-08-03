@@ -12,7 +12,7 @@
 
 | Name | Type | Description |
 |---|---|---|
-| `receiverId	` | String | Receiver for Chrome ID. |
+| `receiverId	` | String | Workspace app for Chrome ID. |
 
 ### (readonly) sessionId
 

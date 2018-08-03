@@ -1,6 +1,6 @@
-# HDX SDK for Citrix Receiver for Chrome 2.5.1
+# Citrix Workspace app for Chrome 1808 HDX SDK
 
-Citrix Receiver for Chrome provides the HDX SDK as a JavaScript file that you can include in third-party Chrome apps. The HDX SDK provides an API to launch and interact with the XenApp and XenDesktop sessions from third-party Chrome apps.
+Citrix Workspace app for Chrome provides the HDX SDK as a JavaScript file that you can include in third-party Chrome apps. The HDX SDK provides an API to launch and interact with the XenApp and XenDesktop sessions from third-party Chrome apps.
 
 The HDX SDK for Chrome provides the following capabilities:
 
@@ -18,13 +18,13 @@ For HDX SDK API documentation for Chrome, see [Capabilities](./capabilities.md).
 
 ## Prerequisites 
 
-Citrix Receiver for Chrome supports only the whitelisted third-party Chrome apps. You can whitelist a third-party Chrome app by adding the policy file for Citrix Receiver for Chrome using Chrome management settings
+Citrix Workspace app for Chrome supports only the whitelisted third-party Chrome apps. You can whitelist a third-party Chrome app by adding the policy file for Citrix Workspace app for Chrome using Chrome management settings
 
 To whitelist a third-party Chrome app, do the following: 
 
-1.	Install the latest version of Citrix Receiver for Chrome. See Citrix downloads page for details.
+1.	Install the latest version of Citrix Workspace app for Chrome. See Citrix downloads page for details.
 
-2.	Whitelist the third-party Chrome app by adding the policy file for Citrix Receiver for Chrome using Chrome management settings.
+2.	Whitelist the third-party Chrome app by adding the policy file for Citrix Workspace app for Chrome using Chrome management settings.
 
 The sample policy.txt file to whitelist the third-party Chrome app is as below:
 
@@ -53,11 +53,11 @@ The sample policy.txt file to whitelist the third-party Chrome app is as below:
 }
 ```
 !!!tip "Note"
-		&lt;3rdParty_App1_ExtnID&gt; is used as an example for the name of externalApps and can send messages to Citrix Receiver for Chrome. Get your appid from the `chrome://extensions` site.
+		&lt;3rdParty_App1_ExtnID&gt; is used as an example for the name of externalApps and can send messages to Citrix Workspace app for Chrome. Get your appid from the `chrome://extensions` site.
 
 ## Additional references
 
-Citrix Receiver for Chrome uses message communication provided by Chrome OS. For more details, see the following links:
+Citrix Workspace app for Chrome uses message communication provided by Chrome OS. For more details, see the following links:
 
 * [https://developer.chrome.com/apps/tags/appview](https://developer.chrome.com/apps/tags/appview) 
 2.	[https://developer.chrome.com/extensions/runtime#event-onMessageExternal](https://developer.chrome.com/extensions/runtime#event-onMessageExternal) 

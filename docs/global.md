@@ -31,7 +31,7 @@ Configuration options to create the session.
 <td><code>launchType</code></td>
 <td>String</td>
 <td>&lt;optional&gt;</td>
-<td>Takes "message" or "embed" as value. Defaults to "message". <br /><br />"message" - launches the session in a new window (similar to session launch using Receiver for Chrome). <br /> "embed" - Embeds the session inside third party Chrome app.</td>
+<td>Takes "message" or "embed" as value. Defaults to "message". <br /><br />"message" - launches the session in a new window (similar to session launch using Workspace app for Chrome). <br /> "embed" - Embeds the session inside third party Chrome app.</td>
 </tr>
 <tr>
 <td><code>container</code></td>
