@@ -1,4 +1,4 @@
-# Citrix Workspace app for Chrome 1808 HDX SDK
+# Citrix Workspace app 1808 for Chrome HDX SDK
 
 Citrix Workspace app for Chrome provides the HDX SDK as a JavaScript file that you can include in third-party Chrome apps. The HDX SDK provides an API to launch and interact with the XenApp and XenDesktop sessions from third-party Chrome apps.
 
