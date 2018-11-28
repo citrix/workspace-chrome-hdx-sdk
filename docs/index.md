@@ -11,7 +11,7 @@ The HDX SDK for Chrome provides the following capabilities:
 * Show or hide a launched session.
 * Send Disconnect /Log off commands from a session.
 
-For the latest HDX SDK APIs and examples, see the [download](https://www.citrix.com/downloads/citrix-receiver/html5.html?_ga=1.58227882.1697021148.1491559074) page.
+For the latest HDX SDK APIs and examples, see the [download](https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-sdk-latest.html) page.
 
 For HDX SDK API documentation for Chrome, see [Capabilities](./capabilities.md).
  
