@@ -14,6 +14,10 @@ The HDX SDK for Chrome provides the following capabilities:
 For the latest HDX SDK APIs and examples, see the [download](https://www.citrix.com/downloads/workspace-app/chrome/workspace-app-for-chrome-sdk-latest.html) page.
 
 For HDX SDK API documentation for Chrome, see [Capabilities](./capabilities.md).
+
+> **Note:**
+>
+> Chrome extension or Chrome app with [manifest V3](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/) is not supported by Citrix Workspace App for Chrome OS HDX SDK. For specific use case and assistance contact at *chrome@citrix.com*.
  
 
 ## Prerequisites 
